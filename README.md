@@ -54,5 +54,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 
 ---
 
-_Si vous souhaitez remixer ce GitBook, contactez _[_Nicolas_](https://github.com/nicolasloubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
+_Si vous souhaitez remixer ce GitBook, contactez _[_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet)_ : nicolas\[dot\]loubet\[at\]protonmail\[dot\]com_
 
