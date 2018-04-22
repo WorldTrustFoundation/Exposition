@@ -36,8 +36,8 @@ La **2e étape** du processus se traduit par des temps** de contribution** & **d
 
 * [Élaboration d'un **livre augmenté** \(sur impulsion de Paul Emilieu\)](http://frama.link/remix-forktheworld)
 * [Élaboration d’un **univers virtuel** ‘ \(sur impulsion d'Anthony Cote\)](/ https://www.twitch.tv/videos/202347929)
-* [Hybridation de _Fork The World_ et _Titre à Venir_](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw) \(via D. Bartholomeo\)
-* [Hybridation de _Fork The World_ et _Lieux Infinis_](https://cloud.lamyne.org/s/2pcskxyToMScO0f) \(via Ophélie Deyrolle\)
+* [Hybridation de _Fork The World_ & _Titre à Venir_ \(via D. Bartholomeo\)](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw)
+* [Hybridation de _Fork The World_ & _Lieux Infinis_ \(via Ophélie Deyrolle\)](https://cloud.lamyne.org/s/2pcskxyToMScO0f)
 
 # Ressources
 
