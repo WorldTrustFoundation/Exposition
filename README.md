@@ -8,13 +8,13 @@ Ce corpus doit être considéré comme un "collage", i.e.  un ensemble d'idées,
 
 Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** \(de\) Tiers-Lieux \(3\) d'engager un **essaimage actif** de l'expérience _Fork The World_ avec le réseau. En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
-1. [Configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
-2. [Patrimoine commun](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
-3. [Libre appropriation](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/libre-appropriation.html)
-4. [Émancipation par le faire](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
-5. [Résilience et modularité](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
+1. [Configuration sociale](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
+2. [Patrimoine commun](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
+3. [Libre appropriation](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/libre-appropriation.html)
+4. [Émancipation par le faire](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
+5. [Résilience et modularité](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-NB : pour accompagner l'essaimage, un '[**label tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) \(attribué entre pairs\) est proposé. Il repose sur le diagnostic des 5 propriétés et sera porté \(dans un premier temps\) par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
+NB : pour accompagner l'essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) est proposé. Il repose sur l’évaluation \(entre praticiens des tiers-lieux\) des 5 propriétés et se destiné à être porté \(notamment\) par le système [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans une réflexion sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
 
 # Essaimage
 
