@@ -20,7 +20,7 @@ Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.c
 
 Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus.
 
-La **1ère étape** du processus s’est traduite par des** temps de débriefing **& **restitution** :
+La **1ère étape** du processus s’est traduite par des **temps de débriefing** & **restitution** :
 
 * [Le débriefing _Fork The World_ d'Open Factory](https://pad.lamyne.org/forktheworld-debriefing-openfactory) \(Saint-Etienne, 3 Mai 2017\)
 * [Le Festival des FabLabs "Make Europe"](https://youtu.be/QIp7e4LDIb0) \(Toulouse, 11-14 Mai 2017\)
@@ -32,7 +32,7 @@ La **1ère étape** du processus s’est traduite par des** temps de débriefing
 * [Les ROUMICS  ‘Vivre des Communs’ ](https://wiki.lescommuns.org/wiki/ROUMICS_2017)\(Lille, 17-18 Novembre 2017\)
 * [La 'Fabrique Lyonnaise des Communs'](https://frama.link/communs-lyon-evenement) \(Lyon, 9-10 Décembre 2017\)
 
-La **2e étape** du processus se traduit par des temps** de contribution** & **d**'**hybridation** :
+La **2e étape** du processus se traduit par des temps **de contribution** & **d'hybridation** :
 
 * [Élaboration d'un **livre augmenté** \(sur impulsion de Paul Emilieu\)](http://frama.link/remix-forktheworld)
 * [Élaboration d’un **univers virtuel** ‘ \(sur impulsion d'Anthony Cote\)](/ https://www.twitch.tv/videos/202347929)
