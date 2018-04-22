@@ -14,7 +14,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
 5. [Résilience et modularité](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
 
-Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) est proposé. Celui-cl repose sur l’évaluation \(entre contributeurs _Fork The World_\) des 5 propriétés et se destine à être supporté par [Communecter](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
+Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) est proposé. Celui-cl repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [Communecter](https://www.communecter.org) ; cette proposition s'inscrit dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
 
 # Essaimage
 
