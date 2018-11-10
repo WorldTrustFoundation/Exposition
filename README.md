@@ -43,13 +43,12 @@ La **2e étape** du processus se traduit par des temps **de contribution** & **d
 
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
-* [Groupe pour échanger avec les co-commissaires](#)
+* [Groupe pour échanger avec les co-commissaires](https://t.me/forktheworld)
 * [Carnet de bord de l’expérience _Fork The World_](https://github.com/WorldTrustFoundation/Coordination/blob/master/biennale-design-2017/forktheworld_coordination_biennale-2017.md)
 * [Répertoire hébergeant les fichiers du GitBook](https://github.com/WorldTrustFoundation/Exposition)
 * [Version initiale des textes de l'expo \(format .doc\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
-* [Version des textes de l'exposition au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes)
+* [Version des textes de l'exposition au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes-ODT)
 * [Photos de l'exposition sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
-* [Compilation des photographies de la Biennale](https://www.sharypic.com/yii1053jns2jfnd6/all)
 * [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/watch?v=xwHBteJnRiM&list=PLbuABG6RGsslWeHzDBZfXgMmlZ-wm9MZH)
 
 ---
