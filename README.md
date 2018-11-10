@@ -1,10 +1,12 @@
 # Bienvenue
 
-Si vous consultez cette page, c'est que vous êtes lié.e, de près ou de loin, à l'univers des '[Tiers-Lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de co-réparation,  squats artistiques auto-gérés, jardins partagés, etc.\). En bref, ce "Gitbook" est UNE mise en forme des [textes](https://docs.google.com/document/u/1/d/11zSChvogyU0hkYCUwIkYdCknmw7_u45503250YfT71U/edit?ts=58861959) rédigés par/pour l'Expérience Tiers-Lieux "[_Fork The World_](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux **mutations du travail**. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\),  [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [collectif RDC](https://vimeo.com/200720088)\).
+## Bienvenue
 
-# À propos
+Si vous consultez cette page, c'est que vous êtes lié.e, de près ou de loin, à l'univers des '[Tiers-Lieux](http://movilab.org/index.php?title=Définition_des_Tiers_Lieux)' \(espaces de coworking, ateliers de co-réparation, squats artistiques auto-gérés, jardins partagés, etc.\). En bref, ce "Gitbook" est UNE mise en forme des [textes](https://docs.google.com/document/u/1/d/11zSChvogyU0hkYCUwIkYdCknmw7_u45503250YfT71U/edit?ts=58861959) rédigés par/pour l'Expérience Tiers-Lieux "[_Fork The World_](https://archive.is/gkBhw)" de la [Biennale de Design de Saint-Etienne](http://www.biennale-design.com/saint-etienne/2017/fr/home/) \(9 mars - 9 avril 2017\) consacrée aux **mutations du travail**. Ils sont régis par les termes de la [**licence Creative Commons BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) et ont été co-rédigés par un réseau d'acteurs des Tiers-Lieux, sous l'impulsion de [Yoann Duriaux](http://www.yoann-duriaux.fr/) \("super concierge", [Movilab](http://movilab.org)\), [Sylvia Fredriksson](https://www.sylviafredriksson.net/) \(chercheuse, [Cité du Design](http://www.citedudesign.com/fr/la-recherche/)\) et [Juliette Gelli](http://juliettegelli.fr/Juliette-Gelli) \(designeuse, [collectif RDC](https://vimeo.com/200720088)\).
 
-Ce corpus doit être considéré comme un "collage", i.e.  un ensemble de fragments d'idées,  de définitions, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
+## À propos
+
+Ce corpus doit être considéré comme un "collage", i.e. un ensemble de fragments d'idées, de définitions, de témoignages, etc. qui peuvent être agencés de multiples façons - en fonction du contexte et des parties prenantes - pour mettre en perspective ce que font les protagonistes des Tiers-Lieux.
 
 Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** \(de\) Tiers-Lieux \(3\) d'engager un **essaimage actif** de _Fork The World_ au travers du [réseau TILIOS](https://www.facebook.com/groups/tilios/). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
@@ -16,7 +18,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 
 Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) est proposé. Celui-cl repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [**Communecter**](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
 
-# Essaimage
+## Essaimage
 
 Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpus.
 
@@ -34,12 +36,12 @@ La **1ère étape** du processus s’est traduite par des **temps de débriefing
 
 La **2e étape** du processus se traduit par des temps **de contribution** & **d'hybridation** :
 
-* [Élaboration d'un **livre augmenté** (sur impulsion de Paul Emilieu)](http://frama.link/remix-forktheworld)
-* [Élaboration d’un **univers virtuel** (sur impulsion d'Anthony Cote)](https://www.twitch.tv/videos/202347929)
-* [Hybridation de _Fork The World_ & _Titre à Venir_ (via D. Bartholomeo)](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw)
-* [Hybridation de _Fork The World_ & _Lieux Infinis_(via Ophélie Deyrolle\)](https://cloud.lamyne.org/s/2pcskxyToMScO0f)
+* [Élaboration d'un **livre augmenté** \(sur impulsion de Paul Emilieu\)](http://frama.link/remix-forktheworld)
+* [Élaboration d’un **univers virtuel** \(sur impulsion d'Anthony Cote\)](https://www.twitch.tv/videos/202347929)
+* [Hybridation de _Fork The World_ & _Titre à Venir_ \(via D. Bartholomeo\)](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw)
+* [Hybridation de _Fork The World_ & _Lieux Infinis_\(via Ophélie Deyrolle\)](https://cloud.lamyne.org/s/2pcskxyToMScO0f)
 
-# Ressources
+## Ressources
 
 Voici les ressources nécessaires minimales pour répliquer / reproduire /enrichir le corpus.
 
@@ -51,7 +53,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 * [Photos de l'exposition sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
 * [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/watch?v=xwHBteJnRiM&list=PLbuABG6RGsslWeHzDBZfXgMmlZ-wm9MZH)
 
----
-
-_Si vous souhaitez remixer ce GitBook, contactez [_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) : nicolas[dot]loubet[at]lescommuns[dot]org_
+_Si vous souhaitez remixer ce GitBook, contactez_ [_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) __ : nicolas\[dot\]loubet\[at\]lescommuns\[dot\]org\_
 
