@@ -38,9 +38,7 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux \(OpenFactory, Movilab\) 
 ### Organisations contributrices
 
 * [Zoomacom](https://github.com/WorldTrustFoundation/Exposition/tree/fb04c0c4fa78c33a55f7503826128ca68e9c5cb3/zoomacom/README.md)
-
-  [Openscop](http://www.openscop.fr)
-
+* [Openscop](http://www.openscop.fr)
 * [OpenSources](http://www.echo-system.fr/ecodesign/open-sources/)
 * [Zone AH!](http://www.zone-ah.org)
 * [Luce Aknin](http://www.luceaknin.com)
