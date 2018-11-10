@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fork The World](README.md)
+* [GitBook Fork The World](README.md)
 * [Expérience Fork The World](intro/README.md)
   * [Intention](intro/intention.md)
   * [Catalogue](intro/catalogue.md)

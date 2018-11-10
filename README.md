@@ -1,4 +1,4 @@
-# Fork The World
+# GitBook Fork The World
 
 ## Bienvenue
 
@@ -34,12 +34,12 @@ La **1ère étape** du processus s’est traduite par des **temps de débriefing
 * [Les ROUMICS  ‘Vivre des Communs’ ](https://wiki.lescommuns.org/wiki/ROUMICS_2017)\(Lille, 17-18 Novembre 2017\)
 * [La 'Fabrique Lyonnaise des Communs'](https://frama.link/communs-lyon-evenement) \(Lyon, 9-10 Décembre 2017\)
 
-La **2e étape** du processus se traduit par des temps **de contribution** & **d'hybridation** :
+La **2e étape** du processus se traduit par des temps de **contribution** & **d'hybridation** :
 
 * [Élaboration d'un **livre augmenté** \(sur impulsion de Paul Emilieu\)](http://frama.link/remix-forktheworld)
 * [Élaboration d’un **univers virtuel** \(sur impulsion d'Anthony Cote\)](https://www.twitch.tv/videos/202347929)
 * [Hybridation de _Fork The World_ & _Titre à Venir_ \(via D. Bartholomeo\)](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw)
-* [Hybridation de _Fork The World_ & _Lieux Infinis_\(via Ophélie Deyrolle\)](https://cloud.lamyne.org/s/2pcskxyToMScO0f)
+* [Hybridation de _Fork The World_ & _Lieux Infinis_ \(via Ophélie Deyrolle\)](https://pad.lamyne.org/biennale-de-venise)
 
 ## Ressources
 
