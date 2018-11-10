@@ -10,13 +10,13 @@ Ce corpus doit être considéré comme un "collage", i.e. un ensemble de fragmen
 
 Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieux de **mettre des mots** sur ce qu'ils vivent \(2\) de soutenir la **formulation de récits** \(de\) Tiers-Lieux \(3\) d'engager un **essaimage actif** de _Fork The World_ au travers du [réseau TILIOS](https://www.facebook.com/groups/tilios/). En filigrane, l'intention est de tester empiriquement l'hypothèse selon laquelle le fonctionnement des Tiers-Lieux est régi par **5 propriétés fondamentales** :
 
-1. [Configuration sociale](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html)
-2. [Patrimoine commun](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/patrimoine-commun.html)
-3. [Libre appropriation](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/libre-appropriation.html)
-4. [Émancipation par le faire](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/emancipation-par-le-faire.html)
-5. [Résilience et modularité](https://world-trust-foundation.gitbooks.io/fork-the-world/content/chapter4/resilience-et-modularite.html)
+1. [Configuration sociale](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/configuration-sociale)
+2. [Patrimoine commun](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/patrimoine-commun)
+3. [Libre appropriation](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/libre-appropriation)
+4. [Émancipation par le faire](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/emancipation-par-le-faire)
+5. [Résilience et modularité](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/resilience-et-modularite)
 
-Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/auto-label-tiers-lieux) est proposé. Celui-cl repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [**Communecter**](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://pad.lamyne.org/s/B1lykDm3b).
+Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/Diagnostic-tiers-lieux) est proposé. Celui-cl repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [**Communecter**](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://frama.link/marque-collective-tilios).
 
 ## Essaimage
 
@@ -24,22 +24,22 @@ Plusieurs organismes ont exprimé leur souhait d'adapter et/ou enrichir le corpu
 
 La **1ère étape** du processus s’est traduite par des **temps de débriefing** & **restitution** :
 
-* [Le débriefing _Fork The World_ d'Open Factory](https://pad.lamyne.org/forktheworld-debriefing-openfactory) \(Saint-Etienne, 3 Mai 2017\)
-* [Le Festival des FabLabs "Make Europe"](https://youtu.be/QIp7e4LDIb0) \(Toulouse, 11-14 Mai 2017\)
-* [Le débriefing _Fork The World_ de la MYNE](https://pad.lamyne.org/forktheworld-debriefing-lamyne) \(Villeurbanne, 16 Mai 2017\)
-* [La journée "Gouvernance" de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md) \(Rennes, 19 Mai 2017\)
-* [La rencontre des Tiers-Lieux du territoire normand](http://movilab.org/index.php?title=Réseau_Tiers-Lieux_Normands#D.C3.A9roul.C3.A9_journ.C3.A9e_du_15_juin_2017) \(Caen, 15 Juin 2017\)
-* [L’atelier Tiers-Lieux à la Cité Descartes](http://frama.link/tiers-lieux-cite-descartes) \(Marne la Vallée, 21 Juin 2017\)
-* Les indiecamps à [Nevez](https://pad.lamyne.org/indiecamp-nevez-2017) \(1-15 Juillet 2017\) et [Kerbors](https://pad.lamyne.org/indiecamp-kerbors-2017) \(1-15 Août 2017\)
-* [Les ROUMICS  ‘Vivre des Communs’ ](https://wiki.lescommuns.org/wiki/ROUMICS_2017)\(Lille, 17-18 Novembre 2017\)
-* [La 'Fabrique Lyonnaise des Communs'](https://frama.link/communs-lyon-evenement) \(Lyon, 9-10 Décembre 2017\)
+* [Le débriefing _Fork The World_ d'Open Factory](https://pad.lamyne.org/forktheworld-debriefing-openfactory) (Saint-Etienne, 3 Mai 2017\)
+* [Le Festival des FabLabs "Make Europe"](https://youtu.be/QIp7e4LDIb0) (Toulouse, 11-14 Mai 2017)
+* [Le débriefing _Fork The World_ de la MYNE](https://pad.lamyne.org/forktheworld-debriefing-lamyne) (Villeurbanne, 16 Mai 2017)
+* [La journée "Gouvernance" de l'Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md) (Rennes, 19 Mai 2017)
+* [La rencontre des Tiers-Lieux du territoire normand](http://movilab.org/index.php?title=Réseau_Tiers-Lieux_Normands#D.C3.A9roul.C3.A9_journ.C3.A9e_du_15_juin_2017) (Caen, 15 Juin 2017)
+* [L’atelier Tiers-Lieux à la Cité Descartes](http://frama.link/tiers-lieux-cite-descartes) (Marne la Vallée, 21 Juin 2017)
+* Les indiecamps à [Nevez](https://pad.lamyne.org/indiecamp-nevez-2017) (1-15 Juillet 2017) et [Kerbors](https://pad.lamyne.org/indiecamp-kerbors-2017) (1-15 Août 2017)
+* [Les ROUMICS  ‘Vivre des Communs’ ](https://wiki.lescommuns.org/wiki/ROUMICS_2017) (Lille, 17-18 Novembre 2017)
+* [La 'Fabrique Lyonnaise des Communs'](https://pad.lamyne.org/communs-lyon-annuaire#3-fabrique-des-communs-2017) (Lyon, 9-10 Décembre 2017)
 
 La **2e étape** du processus se traduit par des temps de **contribution** & **d'hybridation** :
 
-* [Élaboration d'un **livre augmenté** \(sur impulsion de Paul Emilieu\)](http://frama.link/remix-forktheworld)
-* [Élaboration d’un **univers virtuel** \(sur impulsion d'Anthony Cote\)](https://www.twitch.tv/videos/202347929)
-* [Hybridation de _Fork The World_ & _Titre à Venir_ \(via D. Bartholomeo\)](https://drive.google.com/drive/folders/1GpH4AxawgCLyojk9pmRIXmIXFyXuzQgw)
-* [Hybridation de _Fork The World_ & _Lieux Infinis_ \(via Ophélie Deyrolle\)](https://pad.lamyne.org/biennale-de-venise)
+* [Élaboration d'un **livre augmenté** (sur impulsion de Paul Emilieu)](http://frama.link/remix-forktheworld)
+* [Élaboration d’un **univers virtuel** (sur impulsion d'Anthony Cote)](https://www.twitch.tv/videos/202347929)
+* [Hybridation de _Fork The World_ & _Titre à Venir_ (via D. Bartholomeo)](https://frama.link/TAV-corpus)
+* [Hybridation de _Fork The World_ & _Lieux Infinis_ (via Ophélie Deyrolle)](https://pad.lamyne.org/biennale-de-venise)
 
 ## Ressources
 
@@ -48,10 +48,10 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 * [Groupe pour échanger avec les co-commissaires](https://t.me/forktheworld)
 * [Carnet de bord de l’expérience _Fork The World_](https://github.com/WorldTrustFoundation/Coordination/blob/master/biennale-design-2017/forktheworld_coordination_biennale-2017.md)
 * [Répertoire hébergeant les fichiers du GitBook](https://github.com/WorldTrustFoundation/Exposition)
-* [Version initiale des textes de l'expo \(format .doc\)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
+* [Version initiale des textes de l'expo (format .doc)](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo)
 * [Version des textes de l'exposition au format .odt](https://frama.link/BiennaleDesign17-ForkTheWorld-Textes-ODT)
 * [Photos de l'exposition sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
-* [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/watch?v=xwHBteJnRiM&list=PLbuABG6RGsslWeHzDBZfXgMmlZ-wm9MZH)
+* [Compilation des vidéos _Design Moi 1 Tiers-Lieu(x)_](https://www.youtube.com/watch?v=xwHBteJnRiM&list=PLbuABG6RGsslWeHzDBZfXgMmlZ-wm9MZH)
 
-_Si vous souhaitez remixer le GitBook, contactez_ [_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) _: nicolas\[dot\]loubet\[at\]lescommuns\[dot\]org_
+_Si vous souhaitez remixer le GitBook, contactez_ [_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) _: nicolas[dot]loubet[at]lescommuns[dot]org_
 
