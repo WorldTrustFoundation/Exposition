@@ -53,5 +53,5 @@ Voici les ressources nécessaires minimales pour répliquer / reproduire /enrich
 * [Photos de l'exposition sur la Biennale de Design](https://frama.link/BiennaleDesign17-ForkTheWorld-Exposition)
 * [Compilation des vidéos _Design Moi 1 Tiers-Lieu\(x\)_](https://www.youtube.com/watch?v=xwHBteJnRiM&list=PLbuABG6RGsslWeHzDBZfXgMmlZ-wm9MZH)
 
-_Si vous souhaitez remixer le GitBook, contactez [Nicolas](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) : nicolas[dot]loubet[at]lescommuns[dot]org_
+_Si vous souhaitez remixer le GitBook, contactez_ [_Nicolas_](http://movilab.org/index.php?title=Utilisateur:NicolasLoubet) _: nicolas\[dot\]loubet\[at\]lescommuns\[dot\]org_
 

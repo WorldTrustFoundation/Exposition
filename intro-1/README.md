@@ -1,4 +1,4 @@
-# Portraits de praticien.nes
+# Portraits de praticien.ne.s
 
 Venu.e.s de multiples horizons, elles et ils font les Tiers-Lieux. La [_World Trust Foundation_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) a voulu leur donner la parole dans le cadre de la Biennale de Design. Note : cette section se destine à devenir un site ad hoc \(tellement les portraits sont riches\).
 

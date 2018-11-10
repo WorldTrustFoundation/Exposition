@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Bienvenue](README.md)
+* [Fork The World](README.md)
 * [Expérience Fork The World](intro/README.md)
   * [Intention](intro/intention.md)
   * [Catalogue](intro/catalogue.md)
   * [Processus](intro/processus.md)
-* [Portraits de praticien.nes](intro-1/README.md)
+* [Portraits de praticien.ne.s](intro-1/README.md)
   * [Béatrice David](intro-1/beatrice-david.md)
   * [Alexandre Del Perugia](intro-1/alexandre-del-perugia.md)
   * [Lionel Maurel](intro-1/lionel-maurel.md)
