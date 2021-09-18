@@ -4,8 +4,8 @@ Cette section donne à voir des exemples de Tiers-Lieux à travers le monde, "s�
 
 ![](../.gitbook/assets/forktheworkd_tierslieux_exemples.png)
 
-* Exemple 1 : [Jules Verne \(Aurec, France\)](https://nicolasloubet.gitbooks.io/fork-the-world/content/exemples/maison-jules-verne.html)
-* Exemple 2 : [Calafou \(Barcelone, Espagne\)](https://nicolasloubet.gitbooks.io/fork-the-world/content/calafou-barcelone.html)
-* Exemple 3 : [FunkyCitizen \(Bucarest, Roumanie\)](https://nicolasloubet.gitbooks.io/fork-the-world/content/exemples/funkycitizen-bucarest.html)
-* Exemple 4 : [Ouagalab \(Ougadougou, Burkina Faso\)](https://nicolasloubet.gitbooks.io/fork-the-world/content/exemples/ouagalab-ougadougou.html)
+* Exemple 1 : [Jules Verne \(Aurec, France\)](https://world-trust-foundation.gitbook.io/fork-the-world/intro-4/maison-jules-verne)
+* Exemple 2 : [Calafou \(Barcelone, Espagne\)](https://world-trust-foundation.gitbook.io/fork-the-world/intro-4/calafou-barcelone)
+* Exemple 3 : [FunkyCitizen \(Bucarest, Roumanie\)](https://world-trust-foundation.gitbook.io/fork-the-world/intro-4/funkycitizen-bucarest)
+* Exemple 4 : [Ouagalab \(Ougadougou, Burkina Faso\)](https://world-trust-foundation.gitbook.io/fork-the-world/intro-4/ouagalab-ougadougou)
 
