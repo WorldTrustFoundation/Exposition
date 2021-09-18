@@ -16,7 +16,7 @@ Les objectifs sont : \(1\) de permettre à celles/ceux qui vivent les Tiers-Lieu
 4. [Émancipation par le faire](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/emancipation-par-le-faire)
 5. [Résilience et modularité](https://world-trust-foundation.gitbook.io/fork-the-world/intro-3/resilience-et-modularite)
 
-Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/Diagnostic-tiers-lieux) est proposé. Celui-cl repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [**Communecter**](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://frama.link/marque-collective-tilios).
+Pour accompagner l’essaimage, un [**diagnostic tiers-lieux**](https://github.com/nicolasloubet/Diagnostic-tiers-lieux) est proposé. Celui-ci repose sur la co-évaluation des 5 propriétés et se destine à être supporté par [**Communecter**](https://www.communecter.org). Cette proposition s'inscrit plus globalement dans le cadre d’une recherche-action sur les [**marques collectives de certification**](https://frama.link/marque-collective-tilios).
 
 ## Essaimage
 
